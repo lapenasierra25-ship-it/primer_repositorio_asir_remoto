@@ -1,2 +1,3 @@
 # primer_repositorio_asir_remoto
-primer_repositorio_asir_remoto
+## Especificaciones del proyecto
+Este proyecto es una demostración de **no se qué no se cuántas**...
